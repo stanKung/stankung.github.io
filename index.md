@@ -1,8 +1,14 @@
 ---
-layout: home
-title: Welcome to My Site
+layout: page
+title: Biography
 ---
 
-# Hello, I'm Stanley!
+# Biography
 
-Welcome to my personal website. Here, I share my research and projects.
+This is my biography section. You can introduce yourself here, such as:
+
+- **Name:** Stanley Kung
+- **Background:** Passionate about finance and investment  
+- **Experience:** Chief coordinator of the Finance Camp  
+
+You can add more details as needed!
