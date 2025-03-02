@@ -1,14 +1,12 @@
 ---
-layout: page
-title: Biography
+layout: default
+title: SHENG-LI KUNG 孔勝立
 ---
 
-# Biography
+## Biography
 
-This is my biography section. You can introduce yourself here, such as:
+I am a student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). 
 
-- **Name:** Stanley Kung
-- **Background:** Passionate about finance and investment  
-- **Experience:** Chief coordinator of the Finance Camp  
-
-You can add more details as needed!
+- **GitHub:** [stanKung](https://github.com/stanKung)
+- **Email:** stanleykung0818@gmail.com  
+- **Experience:** Chief Coordinator of the IMF Camp
