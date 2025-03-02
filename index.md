@@ -8,5 +8,18 @@ title: SHENG-LI KUNG 孔勝立
 I am a student in the Department of Information Management and Finance at National Yang Ming Chiao Tung University (NYCU). 
 
 - **GitHub:** [stanKung](https://github.com/stanKung)
-- **Email:** stanleykung0818@gmail.com  
+- **Email:** [stanleykung0818@gmail.com](mailto:stanleykung0818@gmail.com)  
 - **Experience:** Chief Coordinator of the IMF Camp
+
+
+| Skill       |
+|-------------|
+| Statistics  |
+| Piano       |
+| Google Forms|
+
+| Interest   |
+|------------|
+| Mahjong    |
+| Piano      |
+| Sleeping   |
